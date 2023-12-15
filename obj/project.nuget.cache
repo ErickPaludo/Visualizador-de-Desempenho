@@ -1,0 +1,47 @@
+{
+  "version": 2,
+  "dgSpecHash": "3LFFO8qReJ61QTdQzlNeG2XEiHOVs5knx19l7AtbXcFhxI+igASNACzidG4kHFs1u5UIkhk0820bwvNfReUFbg==",
+  "success": true,
+  "projectFilePath": "E:\\ViewDesemp\\ViewDesemp.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\erick\\.nuget\\packages\\chart.js\\3.7.1\\chart.js.3.7.1.nupkg.sha512",
+    "C:\\Users\\erick\\.nuget\\packages\\computerinfo\\0.2.0\\computerinfo.0.2.0.nupkg.sha512",
+    "C:\\Users\\erick\\.nuget\\packages\\microsoft.dotnet.platformabstractions\\2.0.0\\microsoft.dotnet.platformabstractions.2.0.0.nupkg.sha512",
+    "C:\\Users\\erick\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\erick\\.nuget\\packages\\microsoft.netcore.targets\\1.1.0\\microsoft.netcore.targets.1.1.0.nupkg.sha512",
+    "C:\\Users\\erick\\.nuget\\packages\\openhardwaremonitor\\0.9.6\\openhardwaremonitor.0.9.6.nupkg.sha512",
+    "C:\\Users\\erick\\.nuget\\packages\\runtime.native.system\\4.0.0\\runtime.native.system.4.0.0.nupkg.sha512",
+    "C:\\Users\\erick\\.nuget\\packages\\system.appcontext\\4.1.0\\system.appcontext.4.1.0.nupkg.sha512",
+    "C:\\Users\\erick\\.nuget\\packages\\system.collections\\4.0.11\\system.collections.4.0.11.nupkg.sha512",
+    "C:\\Users\\erick\\.nuget\\packages\\system.globalization\\4.0.11\\system.globalization.4.0.11.nupkg.sha512",
+    "C:\\Users\\erick\\.nuget\\packages\\system.io\\4.1.0\\system.io.4.1.0.nupkg.sha512",
+    "C:\\Users\\erick\\.nuget\\packages\\system.io.filesystem\\4.0.1\\system.io.filesystem.4.0.1.nupkg.sha512",
+    "C:\\Users\\erick\\.nuget\\packages\\system.io.filesystem.primitives\\4.0.1\\system.io.filesystem.primitives.4.0.1.nupkg.sha512",
+    "C:\\Users\\erick\\.nuget\\packages\\system.reflection\\4.1.0\\system.reflection.4.1.0.nupkg.sha512",
+    "C:\\Users\\erick\\.nuget\\packages\\system.reflection.primitives\\4.0.1\\system.reflection.primitives.4.0.1.nupkg.sha512",
+    "C:\\Users\\erick\\.nuget\\packages\\system.reflection.typeextensions\\4.1.0\\system.reflection.typeextensions.4.1.0.nupkg.sha512",
+    "C:\\Users\\erick\\.nuget\\packages\\system.resources.resourcemanager\\4.0.1\\system.resources.resourcemanager.4.0.1.nupkg.sha512",
+    "C:\\Users\\erick\\.nuget\\packages\\system.runtime\\4.3.0\\system.runtime.4.3.0.nupkg.sha512",
+    "C:\\Users\\erick\\.nuget\\packages\\system.runtime.extensions\\4.1.0\\system.runtime.extensions.4.1.0.nupkg.sha512",
+    "C:\\Users\\erick\\.nuget\\packages\\system.runtime.handles\\4.0.1\\system.runtime.handles.4.0.1.nupkg.sha512",
+    "C:\\Users\\erick\\.nuget\\packages\\system.runtime.interopservices\\4.1.0\\system.runtime.interopservices.4.1.0.nupkg.sha512",
+    "C:\\Users\\erick\\.nuget\\packages\\system.runtime.interopservices.runtimeinformation\\4.0.0\\system.runtime.interopservices.runtimeinformation.4.0.0.nupkg.sha512",
+    "C:\\Users\\erick\\.nuget\\packages\\system.text.encoding\\4.0.11\\system.text.encoding.4.0.11.nupkg.sha512",
+    "C:\\Users\\erick\\.nuget\\packages\\system.threading\\4.0.11\\system.threading.4.0.11.nupkg.sha512",
+    "C:\\Users\\erick\\.nuget\\packages\\system.threading.tasks\\4.0.11\\system.threading.tasks.4.0.11.nupkg.sha512",
+    "C:\\Users\\erick\\.nuget\\packages\\system.threading.timer\\4.3.0\\system.threading.timer.4.3.0.nupkg.sha512",
+    "C:\\Users\\erick\\.nuget\\packages\\winforms.datavisualization\\1.9.1\\winforms.datavisualization.1.9.1.nupkg.sha512"
+  ],
+  "logs": [
+    {
+      "code": "NU1701",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "O pacote 'OpenHardwareMonitor 0.9.6' foi restaurado usando '.NETFramework,Version=v4.6.1, .NETFramework,Version=v4.6.2, .NETFramework,Version=v4.7, .NETFramework,Version=v4.7.1, .NETFramework,Version=v4.7.2, .NETFramework,Version=v4.8, .NETFramework,Version=v4.8.1' em vez da estrutura de destino do projeto 'net7.0-windows7.0'. Esse pacote pode não ser totalmente compatível com o seu projeto.",
+      "libraryId": "OpenHardwareMonitor",
+      "targetGraphs": [
+        "net7.0-windows7.0"
+      ]
+    }
+  ]
+}
