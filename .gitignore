@@ -1,0 +1,65 @@
+# Arquivos de compilação
+bin/
+obj/
+
+# Arquivos de dependências
+*.dll
+*.exe
+*.pdb
+*.dll.config
+
+# Arquivos de compilação Visual Studio
+.vscode/
+.vs/
+*_i.c
+*_p.c
+*.ncb
+*.suo
+*.tlb
+*.tlh
+*.bak
+*.cache
+*.ilk
+*.log
+*.log.*
+*.sdf
+[Tt]est[Rr]esult*
+[Bb]in
+[Dd]ebug*/
+[Rr]elease*/
+Ankh.NoLoad
+
+# Ferramentas
+_ReSharper*/
+*.resharper
+[Tt]est[Rr]esult*
+*.dbmdl
+
+# Arquivos do Visual Studio Code
+.vscode/
+
+# Pastas de arquivos temporários
+[Tt]emp/
+[Tt]mp/
+
+# Arquivos de compilação Unity3D
+[Oo]bj/
+[Ll]ibrary/
+[Ll]ocal[Cc]ache/
+[Ll]ibrary-[Bb]ak/
+[Ss]ys[Ss]tem[Vv]olume[Ll]abel.db
+
+# Arquivos de compilação Xamarin
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# Arquivos de configuração Rider
+.idea/
+
+# Pacotes NuGet
+*.nupkg
+# As seguintes linhas são necessárias para evitar que o NuGet exclua arquivos da pasta de conteúdo (app/wwwroot)
+wwwroot/
+!wwwroot/*
